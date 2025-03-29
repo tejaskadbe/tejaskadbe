@@ -1,13 +1,19 @@
 ## TEJAS KADBE
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn%20%28personal%29-3B4252?style=flat&logo=linkedin&logoColor=5E81AC)]
+> [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn%20%28organisation%29-3B4252?style=flat&logo=linkedin&logoColor=5E81AC)]
 ### **Backend**
 
 Proficient in  
-![Java Logo](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)  
-**Java (Spring Boot)**,  
-![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/4/43/Spring_logo_2018.svg)  
-**ASP.NET**,  
-![ASP.NET Logo](https://upload.wikimedia.org/wikipedia/commons/a/a4/.NET_Logo.svg)  
+![Java Badge](https://img.shields.io/badge/-Java-3B4252?style=flat&logo=openjdk&logoColor=D08770)
+![Spring Badge](https://img.shields.io/badge/-Spring-3B4252?style=flat&logo=spring&logoColor=A3BE8C)
+![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-3B4252?style=flat&logo=springboot&logoColor=B48EAD)
+![Hibernate Badge](https://img.shields.io/badge/-Hibernate-3B4252?style=flat&logo=hibernate&logoColor=5E81AC)
+![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/4/43/Spring_logo_2018.svg)
+![C# Badge](https://img.shields.io/badge/-C%23-3B4252?style=flat&logo=sharp&logoColor=88C0D0)
+![C++ Badge](https://img.shields.io/badge/-C++-3B4252?style=flat&logo=cplusplus&logoColor=88C0D0)
+ 
+![.NET Badge](https://img.shields.io/badge/-.NET-3B4252?style=flat&logo=dotnet&logoColor=88C0D0)
+![JSON Badge](https://img.shields.io/badge/-JSON-3B4252?style=flat&logo=json&logoColor=D08770)
 **Express.js**,  
 ![Express.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)  
 and **RESTful APIs**, building scalable and efficient server-side applications.
@@ -15,16 +21,16 @@ and **RESTful APIs**, building scalable and efficient server-side applications.
 ### **Frontend**
 
 Skilled in  
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)  
-**React**,  
-![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)  
-**Angular**,  
-**HTML**,  
-![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_512.png)  
-**CSS**,  
-![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/CSS3_logo.svg)  
-and **Django**,  
-![Django Logo](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg), building responsive and dynamic user interfaces.
+![React Badge](https://img.shields.io/badge/-React-3B4252?style=flat&logo=react&logoColor=BF616A)
+![Angular Badge](https://img.shields.io/badge/-Angular-3B4252?style=flat&logo=angular&logoColor=81A1C1)  
+![HTML Badge](https://img.shields.io/badge/-HTML-3B4252?style=flat&logo=html5&logoColor=D08770)
+![CSS Badge](https://img.shields.io/badge/-CSS-3B4252?style=flat&logo=css3&logoColor=81A1C1)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-3B4252?style=flat&logo=javascript&logoColor=EBCB8B)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3B4252?style=flat&logo=typescript&logoColor=EBCB8B)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-3B4252?style=flat&logo=node.js&logoColor=A3BE8C)
+![npm Badge](https://img.shields.io/badge/-npm-3B4252?style=flat&logo=npm&logoColor=BF616A)
+ **Django**,  
+![Django Badge](https://img.shields.io/badge/-Django-3B4252?style=flat&logo=django&logoColor=D08770), building responsive and dynamic user interfaces.
 
 ### **Cloud & DevOps**
 
@@ -35,6 +41,10 @@ and **Django**,
 [![AWS Certified](https://images.credly.com/size/150x150/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](https://www.credly.com/badges/27c68838-fba9-4e59-9d4c-b77c5f784e78)  
 [![AWS Certified](https://images.credly.com/size/150x150/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](https://www.credly.com/badges/db00443a-97ef-4bd2-8fb1-f19ffc1fbe23/public_u5)
 
+![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-3B4252?style=flat&logo=kubernetes&logoColor=5E81AC)
+ ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazonwebservices&logoColor=D08770)
+![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-3B4252?style=flat&logo=googlecloud&logoColor=BF616A)
+![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=B48EAD)
 Experience with AWS services such as  
 ![AWS DynamoDB Logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/Amazon_DynamoDB_logo.svg)  
 **DynamoDB**,  
@@ -44,8 +54,7 @@ Experience with AWS services such as
 **S3**,  
 ![AWS Athena Logo](https://upload.wikimedia.org/wikipedia/commons/e/ed/Amazon_Athena_logo.svg)  
 **Athena**,  
-![AWS Lambda Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/AWS_Lambda_logo.svg)  
-**Lambda**,  
+![AWS Lambda Badge](https://img.shields.io/badge/-AWS%20Lambda-3B4252?style=flat&logo=awslambda&logoColor=A3BE8C) 
 ![AWS IAM Logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/Amazon_IAM_logo.svg)  
 **IAM**,  
 and **AWS Bedrock**  
@@ -56,9 +65,10 @@ and **AWS Bedrock**
 Proficient in  
 ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg)  
 **SQL**,  
-**PostgreSQL**, and  
-![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo_2009.svg)  
-**MongoDB**, ensuring optimized data storage, retrieval, and management.
+![MySQL Badge](https://img.shields.io/badge/-MySQL-3B4252?style=flat&logo=mysql&logoColor=88C0D0)
+![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-3B4252?style=flat&logo=postgresql&logoColor=81A1C1)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3B4252?style=flat&logo=mongodb&logoColor=D08770)  
+![Apache Kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-3B4252?style=flat&logo=apachekafka&logoColor=B48EAD) ensuring optimized data storage, retrieval, and management.
 
 ### **Machine Learning & AI**
 
@@ -66,13 +76,15 @@ Proficient in
 [![AWS Certified](https://images.credly.com/size/150x150/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png)](https://www.credly.com/badges/f6c568e0-856e-44bb-842d-2e6efb561c21)  
 
 Python  
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-, TensorFlow  
-![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/TensorFlow_logo_2019.svg)  
-, PyTorch  
-![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/PyTorch_logo.png)  
+![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B) 
+![PyTorch Badge](https://img.shields.io/badge/-PyTorch-3B4252?style=flat&logo=pytorch&logoColor=BF616A)
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-3B4252?style=flat&logo=tensorflow&logoColor=D08770)
+![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-3B4252?style=flat&logo=matplotlib&logoColor=88C0D0)
+![Pandas Badge](https://img.shields.io/badge/-Pandas-3B4252?style=flat&logo=pandas&logoColor=B48EAD)
+![NumPy Badge](https://img.shields.io/badge/-NumPy-3B4252?style=flat&logo=numpy&logoColor=8FBCBB)
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter-3B4252?style=flat&logo=jupyter&logoColor=D08770)
 , Familiar with NLP,  
-![Hugging Face Logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/Hugging_Face_logo.svg)  
+[![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-3B4252?style=flat&logo=huggingface&logoColor=EBCB8B)]
 **Hugging Face**,  
 AWS Bedrock  
 ![AWS Bedrock Logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/AWS_Bedrock_logo.svg), and model fine-tuning for AI-driven applications.
