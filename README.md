@@ -1,5 +1,9 @@
 ## TEJAS KADBE
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn%20%28Tejas%20Kadbe%29-3B4252?style=flat&logo=linkedin&logoColor=5E81AC)](https://www.linkedin.com/in/tejas-kadbe/) 
+[![Gmail](https://img.shields.io/badge/Email-tejaskadbe23@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaskadbe23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tejas%20Kadbe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-kadbe/)
+
+
+
 
 
 
