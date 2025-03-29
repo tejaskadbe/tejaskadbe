@@ -55,7 +55,6 @@ building scalable and efficient server-side applications
    [![AWS Certified](https://images.credly.com/size/150x150/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](https://www.credly.com/badges/9eafa5b1-9cd3-4039-9f34-9c5173728200/public_url) 
    [![AWS Certified](https://images.credly.com/size/150x150/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](https://www.credly.com/badges/141739a5-641b-45fa-bd5e-81cb06aedc16/public_url) 
    [![AWS Certified](https://images.credly.com/size/150x150/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](https://www.credly.com/badges/27c68838-fba9-4e59-9d4c-b77c5f784e78) 
-
    [![AWS Certified](https://images.credly.com/size/150x150/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](https://www.credly.com/badges/0cd76560-95bd-4ca4-a2a5-62e3c8323fe9) 
    [![AWS Certified](https://images.credly.com/size/150x150/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png)](https://www.credly.com/badges/11435386-d9be-4339-a21f-1dc84fcddbf6)  
    
