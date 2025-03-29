@@ -51,11 +51,16 @@ building scalable and efficient server-side applications
    [![AWS Certified](https://images.credly.com/size/150x150/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](https://www.credly.com/badges/9eafa5b1-9cd3-4039-9f34-9c5173728200/public_url) 
    [![AWS Certified](https://images.credly.com/size/150x150/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](https://www.credly.com/badges/141739a5-641b-45fa-bd5e-81cb06aedc16/public_url) 
    [![AWS Certified](https://images.credly.com/size/150x150/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](https://www.credly.com/badges/27c68838-fba9-4e59-9d4c-b77c5f784e78) 
+
+   [![AWS Certified](https://images.credly.com/size/150x150/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](https://www.credly.com/badges/0cd76560-95bd-4ca4-a2a5-62e3c8323fe9) 
+   [![AWS Certified](https://images.credly.com/size/150x150/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png)](https://www.credly.com/badges/11435386-d9be-4339-a21f-1dc84fcddbf6)  
+   
+
+
+
    
    
-   ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazonwebservices&logoColor=D08770)
-   ![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=B48EAD)
-   ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-3B4252?style=flat&logo=kubernetes&logoColor=5E81AC)
+
 
 
    Experience with AWS services such as  
@@ -77,14 +82,20 @@ building scalable and efficient server-side applications
    ![MySQL Badge](https://img.shields.io/badge/-MySQL-3B4252?style=flat&logo=mysql&logoColor=88C0D0)
    ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-3B4252?style=flat&logo=postgresql&logoColor=81A1C1)
    ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3B4252?style=flat&logo=mongodb&logoColor=D08770)
-   ![Apache Kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-3B4252?style=flat&logo=apachekafka&logoColor=B48EAD) ensuring optimized data storage, retrieval, and management.
+   ![Apache Kafka Badge](https://img.shields.io/badge/-Apache%20Kafka-3B4252?style=flat&logo=apachekafka&logoColor=B48EAD) 
 
+   ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazonwebservices&logoColor=D08770)
+   ![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=B48EAD)
+   ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-3B4252?style=flat&logo=kubernetes&logoColor=5E81AC)
+   
    ensuring optimized data storage, retrieval, and management.
    
 ### **Machine Learning & AI**
 
    [![AWS Certified](https://images.credly.com/size/150x150/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png)](https://www.credly.com/badges/8eb3afa4-afee-4d01-9703-91af38ee5128/public_url) 
    [![AWS Certified](https://images.credly.com/size/150x150/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png)](https://www.credly.com/badges/f6c568e0-856e-44bb-842d-2e6efb561c21)  
+
+ 
    
 <a href="https://www.cloudskillsboost.google/public_profiles/df3879e7-41d6-4df7-89ae-a0d5ea594fa0/badges/9316218">
   <img src="https://cdn.qwiklabs.com/vtEM4QeUkkcddAboA1EWYsjoF0vzkyigxksUFisMQU8%3D" width="150" height="150">
